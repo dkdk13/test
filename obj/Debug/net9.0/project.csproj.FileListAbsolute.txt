@@ -1,0 +1,14 @@
+/Users/yunchangho/Desktop/project/bin/Debug/net9.0/project
+/Users/yunchangho/Desktop/project/bin/Debug/net9.0/project.deps.json
+/Users/yunchangho/Desktop/project/bin/Debug/net9.0/project.runtimeconfig.json
+/Users/yunchangho/Desktop/project/bin/Debug/net9.0/project.dll
+/Users/yunchangho/Desktop/project/bin/Debug/net9.0/project.pdb
+/Users/yunchangho/Desktop/project/obj/Debug/net9.0/project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yunchangho/Desktop/project/obj/Debug/net9.0/project.AssemblyInfoInputs.cache
+/Users/yunchangho/Desktop/project/obj/Debug/net9.0/project.AssemblyInfo.cs
+/Users/yunchangho/Desktop/project/obj/Debug/net9.0/project.csproj.CoreCompileInputs.cache
+/Users/yunchangho/Desktop/project/obj/Debug/net9.0/project.dll
+/Users/yunchangho/Desktop/project/obj/Debug/net9.0/refint/project.dll
+/Users/yunchangho/Desktop/project/obj/Debug/net9.0/project.pdb
+/Users/yunchangho/Desktop/project/obj/Debug/net9.0/project.genruntimeconfig.cache
+/Users/yunchangho/Desktop/project/obj/Debug/net9.0/ref/project.dll
